@@ -1,0 +1,22 @@
+{
+  "name": "graphite-receiver",
+  "version": "1.0.0",
+  "description": "Small utility to act as a plaintext carbon backend and emit metrics when they're received",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/securogroup/graphite-receiver.git"
+  },
+  "author": "Chris Wiggins <chris@securogroup.com>",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/securogroup/graphite-receiver/issues"
+  },
+  "homepage": "https://github.com/securogroup/graphite-receiver#readme",
+  "dependencies": {
+    "split": "^1.0.0"
+  }
+}
