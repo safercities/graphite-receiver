@@ -26,3 +26,5 @@ Outputs:
   timestamp: '1442363704'
  }
 ```
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/securogroup/graphite-receiver.svg)](https://greenkeeper.io/)
